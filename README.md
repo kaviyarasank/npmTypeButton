@@ -1,8 +1,9 @@
 # TypeScript Supported Button
 # Usage 
 
+import Button from "type-button/dist/Button";
+
 import './App.css';
-import Button from './component/Button';
 
 function App() {
   const handleClick=()=>{
